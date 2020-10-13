@@ -10,7 +10,7 @@ use Symfony\Component\Security\Http\Authentication\AuthenticationUtils;
 class SecurityController extends AbstractController
 {
     /**
-     * @Route("/", name="app_login")
+     * @Route("https://stark-lake-77803.herokuapp.com/", name="app_login")
      */
     public function login(AuthenticationUtils $authenticationUtils): Response
     {
