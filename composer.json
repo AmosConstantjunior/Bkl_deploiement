@@ -1,4 +1,6 @@
 {
+    "name": "root/bkl",
+    "description": "BKL diffusion est une application de l'entreprise BKL ",
     "type": "project",
     "license": "proprietary",
     "require": {
